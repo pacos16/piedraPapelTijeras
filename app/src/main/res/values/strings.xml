@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PiedraPapelTijeras</string>
+    <string name="sissors">Sissors</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="deuce">Deuce</string>
+    <string name="win">Win</string>
+    <string name="lose">Lose</string>
+    <string name="header">Paco Games</string>
+
+</resources>
